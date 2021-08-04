@@ -1,2 +1,1 @@
-# MRDVGroupProjectCSPB4502.github.io
-visualization website!
+# Visualization of Thumbnail Clustering
