@@ -1,6 +1,6 @@
 # Visualizing Youtube Thumbnail Clusters!
 
-view at: https://mrdvgroupprojectcspb4502.github.io/
+view at: https://youtubetrendinganalysis.github.io/
 
 There are three modes available:
 
